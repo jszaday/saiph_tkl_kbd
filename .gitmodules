@@ -1,0 +1,3 @@
+[submodule "rp2040_stamp_footprints"]
+	path = rp2040_stamp_footprints
+	url = https://github.com/solderparty/rp2040_stamp_footprints
