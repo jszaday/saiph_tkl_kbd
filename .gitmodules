@@ -1,3 +1,6 @@
 [submodule "rp2040_stamp_footprints"]
 	path = rp2040_stamp_footprints
 	url = https://github.com/solderparty/rp2040_stamp_footprints
+[submodule "kicad_lib_tmk"]
+	path = kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git
